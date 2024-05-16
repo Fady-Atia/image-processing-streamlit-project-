@@ -7,21 +7,21 @@ This project demonstrates an interactive image processing application built with
 * Image Upload: Upload images in JPG, JPEG, or PNG format.
 * Default Image: Load a default image for quick experimentation.
 * Image Processing Filters:
-  ** High Pass Filter
-  ** Median Filter
-  ** Mean Filter
-  ** Edge Detection Filters:
-  ** Roberts Edge Detection
-  ** Prewitt Edge Detection
-  ** Sobel Edge Detection
-  ** Morphological Operations:
-  ** Erosion
-  ** Dilation
-  ** Opening
-  ** Closing
-  ** Hough Circle Transform: Detect circles in the image.
-  ** Thresholding Segmentation: Segment the image based on a user-defined threshold.
-  ** Side-by-Side Comparison: View the original and filtered images side-by-side.
+  * High Pass Filter
+  * Median Filter
+  * Mean Filter
+  * Edge Detection Filters:
+  * Roberts Edge Detection
+  * Prewitt Edge Detection
+  * Sobel Edge Detection
+  * Morphological Operations:
+  * Erosion
+  * Dilation
+  * Opening
+  * Closing
+  * Hough Circle Transform: Detect circles in the image.
+  * Thresholding Segmentation: Segment the image based on a user-defined threshold.
+  * Side-by-Side Comparison: View the original and filtered images side-by-side.
 **Requirements:**
 
 * Python 3.x
