@@ -22,6 +22,9 @@ This project demonstrates an interactive image processing application built with
   * Hough Circle Transform: Detect circles in the image.
   * Thresholding Segmentation: Segment the image based on a user-defined threshold.
   * Side-by-Side Comparison: View the original and filtered images side-by-side.
+ # GUI 
+ ![](<GUI1.png>)
+ 
 **Requirements:**
 
 * Python 3.x
@@ -49,3 +52,4 @@ This project demonstrates an interactive image processing application built with
 **Disclaimer:**
 
 This is a basic example and can be extended to include more advanced image processing techniques.
+
