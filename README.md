@@ -23,7 +23,7 @@ This project demonstrates an interactive image processing application built with
   * Thresholding Segmentation: Segment the image based on a user-defined threshold.
   * Side-by-Side Comparison: View the original and filtered images side-by-side.
  # GUI 
- ![](<GUI1.png>)     ![](<GUI2.png>) 
+ ![](<GUI1.png>) ![](<GUI2.png>) 
   
 **Requirements:**
 
